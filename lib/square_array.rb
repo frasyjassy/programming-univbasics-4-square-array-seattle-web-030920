@@ -7,7 +7,6 @@ def square_array(array)
     bannana = array[i] * array[i]
    new_array << bannana 
    i += 1 
-   
   end
   new_array
   
